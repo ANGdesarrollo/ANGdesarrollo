@@ -1,6 +1,6 @@
 Hello! My name is Alexis Graff
 
-I am a Front-End developer with knowledge in REACT JS and I am currently studying to become a full stack developer with skills in MERN.
+I am a Full-Stack with knowledge in REACT JS and I am currently studying to become a full stack developer with skills in MERN.
 
 I love working with computers and I am passionate about programming, problem-solving, and both team and independent work.
 
