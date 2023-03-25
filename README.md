@@ -12,4 +12,7 @@ I love working with computers and I am passionate about programming, problem-sol
 
 :handshake: I enjoy collaborating with others and am always willing to help my team members troubleshoot problems and improve their skills.
 
+📩  alexisgraff123@gmail.com
+🌎  https://ang-dev.com
+
 If you are looking for someone who is passionate and dedicated, don't hesitate to contact me!
