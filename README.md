@@ -10,9 +10,9 @@ I love working with computers and I am passionate about programming, problem-sol
 
 :rocket: I am excited to see where my career as a developer will take me and am eager to tackle new challenges and learn along the way.
 
-:handshake: I enjoy collaborating with others and am always willing to help my team members troubleshoot problems and improve their skills.
+:handshake: I enjoy collaborating with others and am always willing to help my team members troubleshoot problems.
+
+If you are looking for someone who is passionate and dedicated, don't hesitate to contact me!
 
 📩  alexisgraff123@gmail.com
 🌎  https://ang-dev.com
-
-If you are looking for someone who is passionate and dedicated, don't hesitate to contact me!
