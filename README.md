@@ -1,6 +1,6 @@
 Hello! My name is Alexis Graff
 
-I am a Full-Stack developer with knowledge in NODE JS with EXPRESS, SQL, MONGO DB, REACT JS and GIT.
+I am a Full-Stack developer with knowledge in NODE JS with EXPRESS, SQL, MONGO DB, REACT JS, TYPESCRIPT, JAVASCRIPT, GIT, SCSS, BOOTSTRAP, MUI, HTML and CSS.
 
 I love working with computers and I am passionate about programming, problem-solving, and both team and independent work.
 
