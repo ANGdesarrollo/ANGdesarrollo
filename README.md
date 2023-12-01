@@ -1,6 +1,6 @@
 Hello! My name is Alexis Graff
 
-I am a Full-Stack developer with knowledge in NODE JS with FASTIFY, KOA, EXPRESS, SQL, MONGO DB, SOLID JS, NEXT JS with REDUX, TYPESCRIPT, JAVASCRIPT, GIT, TAILWIND, SCSS, BOOTSTRAP, MUI, HTML and CSS.
+I am a Full-Stack developer with knowledge in NODE JS (EXPRESS, FASTIFY, KOA), SQL, MONGO DB, DOCKER, TYPESCRIPT, NEXT JS, SOLID JS, ASTRO, REDUX, JAVASCRIPT, HTML, CSS, TAILWIND, MUI, BOOTRSTRAP, SCSS, GIT y GITHUB.
 
 I love working with computers and I am passionate about programming, problem-solving, and both team and independent work.
 
